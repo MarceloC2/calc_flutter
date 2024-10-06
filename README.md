@@ -1,5 +1,16 @@
-# calc_flutter
+# Calc_flutter
 Trabalho Acadêmico.
+## Resumo das Funções
+
+- **MyApp**: Configura o `MaterialApp`, definindo o tema, título e tela inicial.
+- **MyHomePage**: Widget principal que mantém o estado da calculadora.
+- **_incrementCounter**: Incrementa um contador (não utilizado no momento).
+- **_updateDisplayText**: Atualiza o texto do display com o texto do botão pressionado.
+- **_calculateResult**: Calcula o resultado da expressão no display, removendo vírgulas antes de avaliar.
+- **_calculateSquareRoot**: Calcula a raiz quadrada do valor no display, removendo vírgulas antes de avaliar.
+- **_formatNumber**: Formata o número com separadores de milhar.
+- **_buildButton**: Cria um botão com o texto e callback fornecidos.
+
 
 
 ```markdown
@@ -62,23 +73,11 @@ class MyHomePage extends StatefulWidget {
 ### Classe `_MyHomePageState`
 ```dart
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
   String displayText = "0";
 ```
-- **`_counter`**: Contador de cliques (não utilizado no momento).
 - **`displayText`**: Texto exibido no display da calculadora.
 
 #### Métodos da Classe `_MyHomePageState`
-
-##### `_incrementCounter`
-```dart
-void _incrementCounter() {
-  setState(() {
-    _counter++;
-  });
-}
-```
-- Incrementa o contador (não utilizado no momento).
 
 ##### `_updateDisplayText`
 ```dart
