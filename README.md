@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de um arquivo `README.md` para o seu projeto de calculadora minimalista em Flutter:
-
 ```markdown
 # Flutter Minimalist Calculator
 
