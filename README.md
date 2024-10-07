@@ -30,11 +30,11 @@ A interface é simples e intuitiva, com botões claramente definidos para cada f
 
 ## Funcionalidades
 
-- **Operações Básicas**: Adição, subtração, multiplicação e divisão.
-- **Raiz Quadrada**: Calcula a raiz quadrada do valor no display.
-- **Potência ao Quadrado**: Adiciona o operador de potência ao quadrado.
-- **Memória**: Armazena, recupera e limpa valores.
-- **Formatação de Números**: Números são formatados com separadores de milhar para facilitar a leitura.
+- Operações Básicas: Adição, subtração, multiplicação e divisão.
+- Raiz Quadrada: Calcula a raiz quadrada do valor no display.
+- Potência ao Quadrado: Adiciona o operador de potência ao quadrado.
+- Memória: Armazena, recupera e limpa valores.
+- Formatação de Números: Números são formatados com separadores de milhar para facilitar a leitura.
 
 ## Capturas de Tela
 
