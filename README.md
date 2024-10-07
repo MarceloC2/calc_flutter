@@ -1,3 +1,7 @@
+## Captura de Tela
+
+![Calculadora](capturadetela.png)
+
 # Calculadora
 
 A new Flutter project created with FlutLab - https://flutlab.io
@@ -35,10 +39,6 @@ A interface é simples e intuitiva, com botões claramente definidos para cada f
 - Potência ao Quadrado: Adiciona o operador de potência ao quadrado.
 - Memória: Armazena, recupera e limpa valores.
 - Formatação de Números: Números são formatados com separadores de milhar para facilitar a leitura.
-
-## Capturas de Tela
-
-![Calculadora](capturadetela.png)
 
 
 ## Como Usar
