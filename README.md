@@ -279,7 +279,7 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Padding(
               padding: const EdgeInsets.all(8.0),
               child: const Text(
-                '🧮 Calculadora ® MARCELO',
+                'Calculadora 🔢 MARCELO',
                 style: TextStyle(fontSize: 15, color: Colors.tealAccent),
               ),
             ),
