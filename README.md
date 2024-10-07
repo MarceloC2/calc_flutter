@@ -38,7 +38,7 @@ A interface é simples e intuitiva, com botões claramente definidos para cada f
 
 ## Capturas de Tela
 
-![Calculadora](link_para_imagem)
+![Calculadora](https://github.com/MarceloC2/flutter-minimalist-calculator/blob/main/Captura%20de%20tela.png)
 
 ## Como Usar
 
