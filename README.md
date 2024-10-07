@@ -1,6 +1,8 @@
 ```markdown
 # Flutter Minimalist Calculator
 
+Disponível em: https://flutlab.io/editor/0f6a7663-1de1-439e-b6fd-2fc30de696bb
+
 ## Visão Geral
 
 Esta aplicação é uma calculadora minimalista desenvolvida em Flutter. Ela permite realizar operações matemáticas básicas, calcular raízes quadradas, armazenar valores na memória, e limpar ou recuperar esses valores. A interface é simples e intuitiva, com botões claramente definidos para cada função.
@@ -21,7 +23,7 @@ Esta aplicação é uma calculadora minimalista desenvolvida em Flutter. Ela per
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/flutter-minimalist-calculator.git
+    git clone https://github.com/MarceloC2/flutter-minimalist-calculator.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
